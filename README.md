@@ -193,7 +193,7 @@ Pour utiliser l'API, il faut :
 
 N.B : 
 - dès le démarrage de l'API, les ``logs`` s'enregistre dans le fichier ``/logs/api.log``
-- Endpoint Swagger qui fournit automatiquement une interface pour décrire et tester l’API (/docs)
+- Endpoint ``Swagger`` qui fournit automatiquement une interface pour décrire et tester l’API (``/docs``)
 
 
 ## Auteur
