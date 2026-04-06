@@ -1,0 +1,30 @@
+2026-04-06 17:33:34,775 - [INFO] - API started/restarted successfully
+2026-04-06 17:33:35,650 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:33:37,359 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:33:40,752 - [INFO] - Request: prediction on the texts list '['Scientists discover new treatment', 'SHOCKING: Government hiding truth about water supply']'. Endpoint: /predict/batch
+2026-04-06 17:33:41,809 - [INFO] - Request: prediction on the texts list '['Scientists discover new treatment', 'SHOCKING: Government hiding truth about water supply']'. Endpoint: /predict/batch
+2026-04-06 17:33:44,751 - [INFO] - Check api healt. Endpoint: /health
+2026-04-06 17:34:30,529 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:36:13,016 - [INFO] - API started/restarted successfully
+2026-04-06 17:36:21,806 - [INFO] - API started/restarted successfully
+2026-04-06 17:36:44,098 - [INFO] - API started/restarted successfully
+2026-04-06 17:37:43,803 - [INFO] - API started/restarted successfully
+2026-04-06 17:37:53,050 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:38:43,027 - [INFO] - API started/restarted successfully
+2026-04-06 17:40:18,079 - [INFO] - API started/restarted successfully
+2026-04-06 17:40:43,478 - [INFO] - API started/restarted successfully
+2026-04-06 17:40:51,742 - [INFO] - API started/restarted successfully
+2026-04-06 17:43:34,443 - [INFO] - API started/restarted successfully
+2026-04-06 17:43:39,515 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:43:40,952 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:43:42,214 - [INFO] - Request: prediction on the text 'Scientists discover new treatment'. Endpoint: /predict
+2026-04-06 17:43:46,407 - [INFO] - Request: prediction on the texts list '['Scientists discover new treatment', 'SHOCKING: Government hiding truth about water supply']'. Endpoint: /predict/batch
+2026-04-06 17:43:48,768 - [INFO] - Request: prediction on the texts list '['Scientists discover new treatment', 'SHOCKING: Government hiding truth about water supply']'. Endpoint: /predict/batch
+2026-04-06 17:43:51,270 - [INFO] - Request: prediction on the texts list '['Scientists discover new treatment', 'SHOCKING: Government hiding truth about water supply']'. Endpoint: /predict/batch
+2026-04-06 17:46:23,347 - [INFO] - Request: prediction on the texts list '['With 3:20 a.m. tweet storm Saturday, Clinton continues to mock Trump’s Friday ‘meltdown’', 'SHOCKING: Government hiding truth about water supply']'. Endpoint: /predict/batch
+2026-04-06 17:48:56,909 - [INFO] - Check api healt. Endpoint: /health
+2026-04-06 17:49:39,388 - [INFO] - API started/restarted successfully
+2026-04-06 17:49:47,970 - [INFO] - API started/restarted successfully
+2026-04-06 17:49:49,369 - [INFO] - Request: Check API healt. Endpoint: /health
+2026-04-06 19:10:58,164 - [INFO] - API started/restarted successfully
+2026-04-06 19:11:08,437 - [INFO] - Request: check API healt. Endpoint: /health
